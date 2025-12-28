@@ -1,5 +1,6 @@
 # ERICA-Mobile-Robot-Team6
-<img width="1241" height="695" alt="image" src="https://github.com/user-attachments/assets/58d70a7a-5d25-477a-8a95-eba19de0210e" />
+<img width="1489" height="830" alt="image" src="https://github.com/user-attachments/assets/0850c4f1-7b29-4fa5-9f64-d8fb7ac8b1bb" />
+
 
 한양대학교 ERICA IC-PBL 모바일로봇의이해 6조 팀 프로젝트 리포지토리
 
